@@ -15,7 +15,7 @@ span{font-size: 12px;color: #595959;}
 .mini-spacer{padding-top: 50px;}
 main{display: flex;}
 .col-6{width: 50%;height: 100vh;overflow: hidden;}
-.column{background: url(img/img.png) no-repeat center center; background-size:cover;}
+.column{background: url(img.png) no-repeat center center; background-size:cover;}
 
 .main{padding: 15px 30px;}
 
